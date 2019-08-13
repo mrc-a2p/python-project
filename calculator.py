@@ -1,9 +1,7 @@
-
 def dividir(variable1,variable2):
    operacion_dividir = round(variable1/variable2) #round es redondear decimales
    return operacion_dividir
  
-
 ##########################
 # creacion de un funcion con la palabra reservada  DEF ,
 #  nombre que se quiera asignar y 505

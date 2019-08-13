@@ -49,4 +49,6 @@ def make_line_and_turn(dave, lenght):
       
 
 if __name__== '__main__':
-   main()
+   import sys
+   sys.exit(int(main() or 0))
+   #main()
