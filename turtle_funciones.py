@@ -7,9 +7,9 @@ def main():
     window.title("Ejemplo de ventana")
     #window.screensize(300, 300)
 
-    #dave = turtle.Turtle()
-    dave = turtle.hideturtle()
-    turtle.dot(10, 0, 0, 0)
+    # turtle.dot(10, 0, 0, 0)
+    dave = turtle.Turtle()
+    #dave = turtle.hideturtle()
 
 
     #turtle.goto(50, 30)
